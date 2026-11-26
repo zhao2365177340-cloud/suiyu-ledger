@@ -286,7 +286,8 @@ Windows 使用 `gradlew.bat`。首次构建会下载 Gradle 与依赖，耗时�
 修改版分发或暗示作者背书。详见 [NOTICE](NOTICE)。
 
 **商业授权**：请通过 [GitHub @zhao2365177340-cloud](https://github.com/zhao2365177340-cloud)
-联系作者，说明用途与规模。
+联系作者，说明用途与规模；具体范围与常见问题见
+[`COMMERCIAL_LICENSE.md`](COMMERCIAL_LICENSE.md)。
 
 第三方组件的许可（Compose、ML Kit 等）见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)；
 这些组件的许可优先于本项目许可。
@@ -312,6 +313,7 @@ Windows 使用 `gradlew.bat`。首次构建会下载 Gradle 与依赖，耗时�
 | [`docs/个人所得税测算说明.md`](docs/个人所得税测算说明.md) | 个税口径、税率表、年终奖方案与样例 |
 | [`docs/市场与产品调研.md`](docs/市场与产品调研.md) | 同类产品调研与差异化取舍 |
 | [`docs/命名与品牌.md`](docs/命名与品牌.md) | 名字出处、品牌语气与视觉规范 |
+| [`COMMERCIAL_LICENSE.md`](COMMERCIAL_LICENSE.md) | 商业授权范围、申请方式与品牌说明 |
 | [`CHANGELOG.md`](CHANGELOG.md) | 版本更新记录 |
 
 ---
