@@ -1,0 +1,39 @@
+Suiyu (岁余)
+Copyright (c) 2026 luckyzhao
+https://github.com/zhao2365177340-cloud/suiyu-ledger
+
+This project is source-available. It is licensed under the
+PolyForm Noncommercial License 1.0.0; see LICENSE.
+
+    Commercial use in any form — including selling the software,
+    paid distribution, paid services built on it, or use that is
+    primarily intended for commercial advantage — requires a
+    separate written commercial license from the copyright holder.
+
+Name, brand and identity
+------------------------
+The names "岁余", "Suiyu", the app icon, the brand copy "日计不足，岁计有余",
+and the screenshots in docs/screenshots/ are the brand assets of the author.
+They are NOT licensed under the PolyForm Noncommercial License. You may not
+use them to promote or distribute a modified or derivative app, or in any way
+that suggests endorsement by the author, without written permission.
+
+Third-party components
+----------------------
+This project depends on third-party libraries with their own licenses.
+See THIRD_PARTY_NOTICES.md. Those licenses take precedence for the
+respective components.
+
+Contributions
+-------------
+By submitting a pull request or patch you agree that your contribution is
+licensed under the PolyForm Noncommercial License 1.0.0 and that the
+copyright holder may also license it under other terms, including a
+commercial license.
+
+Disclaimer
+----------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+The tax simulation, financial health score and automated reports are for
+reference only and do not constitute tax, investment, insurance or legal
+advice. Use at your own risk.

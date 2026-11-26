@@ -1,0 +1,65 @@
+name: Bug 报告
+description: 报告一个可复现的问题
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈。请先搜索已有 Issue；**请勿上传真实账本、手机号、身份证等隐私数据**。
+  - type: input
+    id: version
+    attributes:
+      label: 岁余版本
+      description: 在「家庭 → 关于」或 APK 文件名中可以看到
+      placeholder: "v1.2.1"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 设备与系统
+      placeholder: "Pixel 7 · Android 14 / 小米 13 · HyperOS"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      description: 从打开 App 开始，逐步描述
+      placeholder: |
+        1. 打开「流水」
+        2. 长按第一笔
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望结果
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: 实际结果
+      description: 可附脱敏截图或日志
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: 相关模块
+      options:
+        - 账单导入 / OCR
+        - 手动记账
+        - 流水 / 删除
+        - 统计
+        - 报表
+        - 财务体检
+        - 个税测算
+        - 家庭 / 设置
+        - 数据备份
+        - 其他
+    validations:
+      required: true

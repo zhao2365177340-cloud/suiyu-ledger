@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 岁余图标：一弯将满之月，与三行账目 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 月：米白圆盘 -->
+    <path
+        android:fillColor="#F3E7C9"
+        android:pathData="M54,26 a23,23 0 1,0 0.01,0 z" />
+    <!-- 缺口：用底色圆切出上弦月 -->
+    <path
+        android:fillColor="#24483E"
+        android:pathData="M62,20 a21,21 0 1,0 0.01,0 z" />
+
+    <!-- 三行账目 -->
+    <path
+        android:fillColor="#D9B97A"
+        android:pathData="M34,62 h20 a2.4,2.4 0 0 1 0,4.8 h-20 a2.4,2.4 0 0 1 0,-4.8 z" />
+    <path
+        android:fillColor="#D9B97A"
+        android:pathData="M40,71 h22 a2.4,2.4 0 0 1 0,4.8 h-22 a2.4,2.4 0 0 1 0,-4.8 z" />
+    <path
+        android:fillColor="#D9B97A"
+        android:pathData="M48,80 h14 a2.4,2.4 0 0 1 0,4.8 h-14 a2.4,2.4 0 0 1 0,-4.8 z" />
+</vector>
